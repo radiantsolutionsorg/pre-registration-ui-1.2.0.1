@@ -104,7 +104,6 @@
     },
     "Acknowledgement": {
       "name": "View Acknowledgement",
-      "tablename":"Acknowledgement",
       "list": {
         "line1": "After successful completion of the Pre-registration application, you will receive an acknowledgment.",
         "line2": "You can print, download, email or SMS your acknowledgment.",
@@ -122,7 +121,6 @@
     },
     "status": {
       "name": "Status Explanation",
-      "tablename": "Status types",
       "headers": {
         "status": "Status",
         "explanation": "Explanation"
@@ -281,7 +279,7 @@
   "login": {
     "text": "Quick & Easy steps",
     "sub_text": "Pre-register for",
-    "sub_text_UID": "Unique Identification Number",
+    "sub_text_UID": "The Commonwealth of The Bahamas Unique Identification Number",
     "label_email_num": "Email ID or Phone Number",
     "label_otp": "Enter OTP",
     "action_send": "Send OTP",
@@ -453,7 +451,6 @@
   },
   "dashboard": {
     "title": "Your Applications",
-    "name" : "Application",
     "action_modify_information": "Modify Information",
     "action_modify_appointment": "Book/Modify Appointment",
     "action_cre_application": "Create New Application ",

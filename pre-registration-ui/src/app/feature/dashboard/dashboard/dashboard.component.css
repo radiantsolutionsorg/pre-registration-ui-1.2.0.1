@@ -20,9 +20,9 @@
   flex-wrap: wrap;
 }
 .heading {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   font-size: 20px;
-  color: #fd518c;
+  color: #06489B;
   opacity: 100%;
   line-height: 20px;
   white-space: nowrap;
@@ -35,27 +35,27 @@ img {
   padding-right: 2px;
 }
 .modify-info-btn {
-  color: #fd518c;
-  border: 1px solid #fd518c;
+  color: #06489B;
+  border: 1px solid #06489B;
   border-radius: 0px;
   margin-left: 15px !important;
   margin-top: 30px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   font-size: 11px !important;
 }
 .modify-app-btn {
-  color: #fd518c;
-  border: 1px solid #fd518c;
+  color: #06489B;
+  border: 1px solid #06489B;
   border-radius: 0px;
   margin-left: 12px;
   margin-top: 30px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   font-size: 11px !important;
 }
 .create-app-btn {
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-  background-color: #ff4081;
+  font-family: 'Roboto';
+  background-color: #06489B;
   opacity: 90%;
   margin-left: 12px;
   font-size: 0.75rem;
@@ -74,7 +74,7 @@ img {
   padding-right: 45px;
 }
 .card-header {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto';
   font-size: 0.75rem;
   opacity: 100%;
   display: flex;

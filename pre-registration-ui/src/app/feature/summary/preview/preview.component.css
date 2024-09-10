@@ -6,7 +6,7 @@ header {
   min-height: 40px;
   margin-top: 10px;
   font-weight: bold;
-  color: #fd518c;
+  color: #06489B;
 }
 .spinner {
   flex-direction: column;
@@ -47,16 +47,16 @@ header {
 .preview__header {
   margin: 0px 2rem 20px 2rem;
   padding: 20px 0rem;
-  border-bottom: 1px solid #ff4081;
+  border-bottom: 1px solid #06489B;
   font-weight: bold;
-  color: #ff4081;
+  color: #06489B;
 }
 /* 
 .preview__header {
   padding: 0;
   margin-top: 10px;
   font-weight: bold;
-  color: #ff4081;
+  color: #06489B;
 } */
 
 .preview__header-container {
@@ -67,17 +67,17 @@ header {
 .preview__header-container hr {
   left: 0;
   width: 100%;
-  border: 1px solid #ff4081;
+  border: 1px solid #06489B;
   height: 1px;
-  color: #ff4081;
+  color: #06489B;
 }
 
 .preview__header hr {
   left: 0;
   width: 100%;
-  border: 1px solid #ff4081;
+  border: 1px solid #06489B;
   height: 1px;
-  color: #ff4081;
+  color: #06489B;
 }
 
 .preview__body-content-container {
@@ -101,7 +101,7 @@ header {
 }
 
 .preview__footer {
-  color: #ff4081;
+  color: #06489B;
   padding: 0 2rem;
 }
 
@@ -110,7 +110,7 @@ header {
   padding: 20px 0rem;
   border-bottom: 2px dotted #e6e6e6;
   font-weight: 600;
-  color: #ff4081;
+  color: #06489B;
 }
 
 .preview__footer-container {

@@ -17,15 +17,15 @@
 }
 .browseInput {
   background: none;
-  border: 1px solid rgba(253, 81, 140, 1);
-  color: rgba(253, 81, 140, 1);
+  border: 1px solid #00b1c0;
+  color: #00b1c0;
   border-radius: 2px;
   padding: 0.4rem 1.5rem;
 }
 
 .browseInput[disabled] {
-  border: 1px solid rgba(253, 81, 140, 0.35);
-  color: rgba(253, 81, 140, 0.35);
+  border: 1px solid #abeaf0;
+  color: #abeaf0;
 }
 .documentWrapper {
   width: 100%;
@@ -36,7 +36,7 @@
   margin: 0;
   padding-bottom: 5px;
   font-weight: normal;
-  color: #fd518c;
+  color: #00b1c0;
 }
 mat-select {
   font-weight: 600;
@@ -122,11 +122,11 @@ mat-select:focus {
 .user header {
   margin: 0;
   font-weight: bold;
-  color: #fd518c;
+  color: #06489B;
 }
 
 .user hr {
-  border-top: 1.5px solid #fd518c;
+  border-top: 1.5px solid #00b1c0;
   position: relative;
   left: -31.8px;
   margin-top: 0.5rem;
@@ -323,10 +323,10 @@ mat-select:focus {
 }
 .fieldHeader {
   max-width: 500px;
-  color: white;
+  color: black;
   min-height: 40px;
   padding: 10px;
-  background-color:rgb(11, 106, 130) ;
+  background-color:#75dee6 ;
 }
 .fieldContent {
   padding: 10px;

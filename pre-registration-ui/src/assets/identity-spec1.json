@@ -469,8 +469,8 @@
             },
             "headerStyle": {
               "width": "700px",
-              "border-bottom": "1px solid #fd518c",
-              "background-color": "#fd518c"
+              "border-bottom": "1px solid #06489B",
+              "background-color": "#06489B"
             },
             "changeAction": "copy&disable:permanentAddressLine1=presentAddressLine1,permanentAddressLine2=presentAddressLine2,permanentAddressLine3=presentAddressLine3,permanentAddressLine4=presentAddressLine4,permanentProvince=presentProvince,permanentCity=presentCity,permanentBarangay=presentBarangay,permanentZipcode=presentZipcode"
           },
